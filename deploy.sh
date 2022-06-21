@@ -1,6 +1,6 @@
 #!/usr/bin/expect -f
 set file dist
-set serverPath ~/apps/sub-web
+set serverPath /usr/share/nginx/html/sub-web
 # 改为服务器用户名
 set user root
 # ip改为服务器ip

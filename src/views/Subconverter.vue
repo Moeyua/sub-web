@@ -371,6 +371,11 @@ export default {
             label: "customized",
             options: [
               {
+                label: "Moeyua",
+                value:
+                  "https://gist.githubusercontent.com/Moeyua/f12ba6acacf53b30934b1e74fab5b248/raw/246494b79a46325b34d07243828b222b8d3d93d8/remote-config.ini",
+              },
+              {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini",
